@@ -1,8 +1,8 @@
-#Financial Metrics Display with Streamlit
+# Financial Metrics Display with Streamlit
 
 This project showcases a simple web app built using Streamlit, a powerful Python library for creating interactive and data-driven applications. The app allows users to input news articles and extract key financial metrics such as Company Name, Stock Price, Revenue, EPS (Earnings Per Share), and Net Income.
 
-#Features:
+## Features:
 
 1.User-friendly interface with a text input box for news articles.
 
@@ -13,7 +13,7 @@ This project showcases a simple web app built using Streamlit, a powerful Python
 4.Built-in responsiveness for seamless usage on various devices.
 
 
-#Technology Stack:
+## Technology Stack:
 
 1.Python
 
@@ -25,7 +25,7 @@ This project showcases a simple web app built using Streamlit, a powerful Python
 
 
 
-#How It Works:
+## How It Works:
 
 Users input a news article or text in the provided edit box.
 Upon clicking the "Extract" button, the app processes the input text using NLP techniques to identify key financial metrics.
