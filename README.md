@@ -4,16 +4,19 @@ This project showcases a simple web app built using Streamlit, a powerful Python
 
 Features:
 
-User-friendly interface with a text input box for news articles.
-Extracts relevant financial metrics from the article using natural language processing.
-Displays the extracted metrics in a clean tabular format.
-Built-in responsiveness for seamless usage on various devices.
+1.User-friendly interface with a text input box for news articles.
+2.Extracts relevant financial metrics from the article using natural language processing.
+3.Displays the extracted metrics in a clean tabular format.
+4.Built-in responsiveness for seamless usage on various devices.
+
 Technology Stack:
 
-Python
-Streamlit
-Natural Language Processing (NLP)
-Pandas
+1.Python
+2.Streamlit
+3.Natural Language Processing (NLP)
+4.Pandas
+
+
 How It Works:
 
 Users input a news article or text in the provided edit box.
